@@ -1,0 +1,20 @@
+1714698129115	Copy compilation unit
+1714706985523	Delete element
+1714725639025	Delete element
+1714745081249	Delete element
+1714746001783	Move 'list.jsp' to 'admin'
+1714746112819	Delete element
+1714746128093	Rename resource 'list.jsp'
+1714746159087	Rename resource 'new_list.jsp'
+1714781495067	Rename resource 'paping'
+1714786817491	Encapsulate field 'listResult'
+1714817238385	Encapsulate field 'page'
+1714817317785	Encapsulate field 'maxPageItem'
+1714817385432	Encapsulate field 'totalPage'
+1714900253111	Encapsulate field 'totalItem'
+1714902972592	Encapsulate field 'page'
+1714902975898	Encapsulate field 'maxPageItem'
+1714902978730	Encapsulate field 'totalPage'
+1714902982227	Encapsulate field 'totalItem'
+1714913927579	Encapsulate field 'sortName'
+1714913931017	Encapsulate field 'sortBy'
